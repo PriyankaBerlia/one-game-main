@@ -1,1 +1,1 @@
-# one-game-main
+# one-game
